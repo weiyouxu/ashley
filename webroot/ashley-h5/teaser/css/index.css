@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+.wrapper {
+    width: 100%;
+    height: 100%;
+    background: #f68826;
+}
+
+.bg {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 25%;
+}
